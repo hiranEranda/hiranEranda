@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiranEranda
 - 👀 I’m interested in web app/mobile app and blockchain development.
-- 🌱 I’m currently a computer engineering udergraduate at university of jaffna.
+- 🌱 I’m software engineer with more than 3 years of experience.
 - 💞️ I’m looking to collaborate on any web or mobile development project.
 - 📫 How to reach me - hiraneranda@gmail.com
 
